@@ -1,4 +1,4 @@
-## Functions
+## Function
 
 ``` go
     func enterTheClub (age int) (string, bool) {
